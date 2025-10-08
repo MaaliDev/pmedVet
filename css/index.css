@@ -397,7 +397,9 @@ footer {
             border:none;
             height: auto;
             align-items: start;
-            top: 0;
+            display: flex;
+            position: relative;
+            
         }
 
         
