@@ -483,8 +483,9 @@ footer {
         max-width: 100%;
         height: auto;
         gap: none;
-        margin: 0;
-        gap: 5px;
+        margin: 11px 0;
+        position: relative;
+    
     }
 
     .account{
