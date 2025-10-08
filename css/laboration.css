@@ -1,0 +1,17 @@
+@charset "UTF-8";
+
+
+.up-left {
+    padding: 15px;
+    background-color: rgba(255, 255, 255, 0.34);
+
+}
+
+.up-right {
+   
+    background-color: white;
+}
+.up-left img {
+
+    max-width: 100%;
+}
